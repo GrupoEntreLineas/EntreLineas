@@ -8,7 +8,7 @@ Gracias.
 
 Anggie Valentina Toledo Lopez
 
-Buen día soy Anggie Toledo, tengo 20 años, soy estuduante de 7 semestre de ingeniería industrial, me interesa el tema de la programación 
-por una materia en la que me empezaron a enseñar cosas basicas sobre python, y hago parte de este proyecto 
-demominado EntreLineas.
+Buen día soy Anggie Toledo, tengo 20 años, soy estuduante de 7 semestre de ingeniería industrial, me interesa 
+el tema de la programación por una materia en la que me empezaron a enseñar cosas basicas sobre python, y 
+hago parte de este proyecto demominado EntreLineas.
 
