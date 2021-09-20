@@ -1,3 +1,11 @@
+Descripción del proyecto
+
+Con este proyecto se busca crear una aplicación web, que permita controlar las ventas físicas y virtuales 
+de una empresa de manufactura y hacerles el correspondiente seguimiento, haciento uso de HTML, CSS y 
+JavaScrip. Para desarrollar elproyecto se crearon grupos de 5 integrantes, dentro de los cuales tosdos 
+son desarrollados, pero por otra parte deben cumplir con uno de los roles que nos fueron proporcionados,
+los cueles fueron: Desarrollador, Analista, Product Owner, Administrador de BD y Scrum Master.
+
 Danilo Andres Jojoa Abella:
 
 Buenas tardes mi nombre es Danilo Andres Jojoa Abella, Tengo 27 Años soy administrador de empresas 
@@ -6,7 +14,7 @@ muy emocionado por aprender y apoyar a mi grupo de trabajo en este nuevo ciclo c
 
 Gracias.
 
-Anggie Valentina Toledo Lopez
+Anggie Valentina Toledo Lopez - Rol 5: Scrum Mastr
 
 Buen día soy Anggie Toledo, tengo 20 años, soy estuduante de 7 semestre de ingeniería industrial, me interesa 
 el tema de la programación por una materia en la que me empezaron a enseñar cosas basicas sobre python, y 
